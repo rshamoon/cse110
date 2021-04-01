@@ -1,2 +1,1 @@
-# cse110
-cse110 git repo
+Ryan Shamoon's User Page

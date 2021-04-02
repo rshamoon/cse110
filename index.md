@@ -8,6 +8,8 @@
 
 My name is **Ryan Shamoon**. I am a 3rd year computer science major at UCSD. Some of my favorite hobbies are chess, soccer, and sports gambling. 
 
+### [My Github](https://github.com/rshamoon)
+
 ## Random Things I Like
 
 One of my favorite and most iconcic quotes is from Obito Uchilla, who says:
@@ -41,5 +43,3 @@ To Do:
 - [ ] Submit Lab 1 to Canvas
 
 Here is a link to a [random page](random.md) with text on it.
-
-### [My Github](https://github.com/rshamoon)
